@@ -1,13 +1,6 @@
 # Cypress Proof of Concept (POC)
-
 <p align="center">
-  <a href="https://www.cypress.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="./assets/cypress-logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-logo-light.png">
-      <img alt="JF" src="./assets/jf-automation-testing.webp">
-    </picture>    
-  </a>
+  <img src='./.assets/jf-automation-testing.jpg' width='200' align="center">
 </p>
 <p align="center">
   <a href="https://on.cypress.io">Documentation</a> |
