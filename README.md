@@ -1,5 +1,20 @@
 # Cypress Proof of Concept (POC)
 
+<p align="center">
+  <a href="https://www.cypress.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="./assets/cypress-logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-logo-light.png">
+      <img alt="JF" src="./assets/jf-automation-testing.webp">
+    </picture>    
+  </a>
+</p>
+<p align="center">
+  <a href="https://on.cypress.io">Documentation</a> |
+  <a href="https://on.cypress.io/changelog">Changelog</a> |
+  <a href="https://on.cypress.io/roadmap">Roadmap</a>
+</p>
+
 ## Overview
 
 This project serves as a Proof of Concept (POC) for showcasing both API and End-to-End (E2E) tests using Cypress. 
